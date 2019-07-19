@@ -1,0 +1,29 @@
+use == or ===, never = for checks
+
+remember to use i++ in for looops to increment
+
+use + to string stuff together in document.write
+
+always remember to close brackets
+
+use ; instead of , in for loops
+
+i<x.length is the same as i<=x.length-1
+
+define numbers as var
+
+use array[i] instead of just i if necessary
+
+use !== instead of ==!
+
+rather than nest for loops, use functions
+
+you can't use numbers alongside "length", so you have to put it "toString()"
+
+always remember to return at the end of your function if you want it to do anything
+
+be consistent with semicolons
+
+use arrow function syntax
+
+don't shorten variable names
